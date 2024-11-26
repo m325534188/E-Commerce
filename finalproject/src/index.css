@@ -65,4 +65,31 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
+  .links {
+    display: flex;
+    margin-left: 300px;
+    margin-bottom: 300px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #0b0a0a;
+}
+
+.links a {
+    margin-right: 10px; /* Adjust the spacing between links as needed */
+}
+.words{
+  display: flex;
+  margin-left: 300px;
+  /* margin-bottom: 40px; */
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #242424;
+}
+.Nav{
+  margin-right: 10px; /* Adjust the spacing between links as needed */
+
+  display: flex;
+  margin-left: 300px;
+  /* margin-bottom: 40px; */
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #242424;
+}
 }
