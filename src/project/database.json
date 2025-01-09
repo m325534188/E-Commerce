@@ -1,0 +1,165 @@
+{
+  "buyers": [
+    {
+      "id": "1",
+      "name": "Alice",
+      "purchase": 200,
+      "products": [
+        {
+          "id": "1",
+          "quantity": 1
+        },
+        {
+          "id": "2",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Bob",
+      "purchase": 150
+    },
+    {
+      "id": "3",
+      "name": "Charlie",
+      "purchase": 100
+    },
+    {
+      "id": "4",
+      "name": "David",
+      "purchase": 50
+    },
+    {
+      "id": "5",
+      "name": "Eve",
+      "purchase": 0
+    },
+    {
+      "id": "c401",
+      "name": "miri",
+      "email": "m548532941@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": "4583",
+      "name": "chani",
+      "email": "hbdretf@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": "bbff",
+      "name": "רחלי",
+      "email": "rsh5789@gmail.com",
+      "password": "1234567",
+      "joinedat": "2025-01-07"
+    },
+    {
+      "id": "b945",
+      "name": "sari",
+      "email": "s548532941@gmail.com",
+      "password": "1234567",
+      "joinedat": "2025-01-08"
+    },
+    {
+      "id": "e27b",
+      "name": "giti",
+      "email": "g5678@gmail.com",
+      "password": "12345678",
+      "joinedat": "2025-01-08"
+    },
+    {
+      "id": "87a4",
+      "name": "malki",
+      "email": "m5678@gmail.com",
+      "password": "4567",
+      "joinedat": "2025-01-08"
+    },
+    {
+      "id": "1997",
+      "name": "beli",
+      "email": "b34556@gmail.com",
+      "password": "5247",
+      "joinedat": "2025-01-08"
+    },
+    {
+      "id": "8f2f",
+      "name": "libi",
+      "email": "Libi56@gmail.com",
+      "password": "12345678",
+      "joinedat": "2025-01-09"
+    }
+  ],
+  "purches": [
+    {
+      "id": "1",
+      "name": "צמיד טניס",
+      "price": "100"
+    },
+    {
+      "id": "2",
+      "name": "bracelet-diamonds",
+      "price": "200"
+    }
+  ],
+  "cart": [
+    {
+      "id": "1",
+      "buyer": "1",
+      "purches": [
+        {
+          "id": "1",
+          "quantity": 1
+        },
+        {
+          "id": "2",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "buyer": "2",
+      "purches": [
+        {
+          "id": "1",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "buyer": "3",
+      "purches": [
+        {
+          "id": "2",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "buyer": "4",
+      "purches": [
+        {
+          "id": "1",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "buyer": "5",
+      "items": []
+    },
+    {
+      "id": "1ead"
+    },
+    {
+      "id": "77e5"
+    },
+    {
+      "id": "9ada"
+    }
+  ]
+}
